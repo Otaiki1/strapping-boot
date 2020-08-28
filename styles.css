@@ -1,0 +1,15 @@
+.navbar-dark{
+    background-color: black;}
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+}
+.jumbotron{
+    background-color: grey;
+    color:white;
+}
+.pic{
+    height:230px;
+    width:120px;
+}
